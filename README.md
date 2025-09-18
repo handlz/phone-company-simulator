@@ -50,16 +50,29 @@ pytest sample_tests.py
 
 ### Project Structure
 .
+
 ├── application.py
+
 ├── bill.py
+
 ├── call.py
+
 ├── callhistory.py
+
 ├── contract.py
+
 ├── customer.py
+
 ├── data.py
+
 ├── dataset.json
+
 ├── filter.py
+
 ├── phoneline.py
+
 ├── sample_tests.py
+
 ├── visualizer.py
+
 
